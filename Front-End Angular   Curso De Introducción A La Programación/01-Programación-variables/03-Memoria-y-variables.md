@@ -1,0 +1,1 @@
+Sencillamente explicado se refiere a que cada instancia de una clase se almacena en memoria, así como variables, ciclos... etc. Es por esto que conocer los tipos de variables es importante, porque reservan cierta cantidad de memoria ram que será usado en el transcurso de la aplicación.
